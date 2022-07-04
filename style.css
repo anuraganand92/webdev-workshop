@@ -20,11 +20,12 @@ body {
 /*Nav Bar*/
 /*basic design*/
 .nav {
-    height: 50px;
-    width: 100%;
-    background-color: #F2EEE3;
-    position: fixed;
-    top: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: #F2EEE3;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
 }
     
     /*logo*/
